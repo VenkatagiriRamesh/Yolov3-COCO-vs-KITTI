@@ -29,6 +29,6 @@ Download yolov3.weights for COCO dataset from this link and add it to the yolo_c
 9. Uncompress yolo_kitti.7z
 
 ## Code Execution 
-`<cd Yolov3 COCO vs KITTI>` 
+`cd Yolov3 COCO vs KITTI` 
 
-`<python yolo_coco_kitti.py` 
+`python yolo_coco_kitti.py` 
